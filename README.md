@@ -1,4 +1,4 @@
-##☕ Java - Básico
+# ☕ Java - Básico
 
 ✨ Bem-vindo(a) ao meu repositório de estudos em Java!
 
